@@ -1,1 +1,1 @@
-# pins
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinWrld&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats))](https://github.com/anuraghazra/github-readme-stats)
